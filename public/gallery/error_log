@@ -1,0 +1,16 @@
+[08-Aug-2006 07:31:02] PHP Warning:  main(./header.inc): failed to open stream: No such file or directory in /home/supremel/public_html/gallery/index.php on line 1
+[08-Aug-2006 07:31:02] PHP Warning:  main(./header.inc): failed to open stream: No such file or directory in /home/supremel/public_html/gallery/index.php on line 1
+[08-Aug-2006 07:31:02] PHP Fatal error:  main(): Failed opening required './header.inc' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/supremel/public_html/gallery/index.php on line 1
+[08-Aug-2006 07:31:43] PHP Warning:  main(): open_basedir restriction in effect. File(/header.inc) is not within the allowed path(s): (/home:/tmp) in /home/supremel/public_html/gallery/index.php on line 1
+[08-Aug-2006 07:31:43] PHP Warning:  main(/header.inc): failed to open stream: Operation not permitted in /home/supremel/public_html/gallery/index.php on line 1
+[08-Aug-2006 07:31:43] PHP Warning:  main(): open_basedir restriction in effect. File(/header.inc) is not within the allowed path(s): (/home:/tmp) in /home/supremel/public_html/gallery/index.php on line 1
+[08-Aug-2006 07:31:43] PHP Warning:  main(/header.inc): failed to open stream: Operation not permitted in /home/supremel/public_html/gallery/index.php on line 1
+[08-Aug-2006 07:31:43] PHP Fatal error:  main(): Failed opening required '/header.inc' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/supremel/public_html/gallery/index.php on line 1
+[08-Aug-2006 07:32:26] PHP Warning:  main(http://supremelearning.com/footer.inc): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/supremel/public_html/gallery/index.php on line 67
+[08-Aug-2006 07:32:26] PHP Warning:  main(http://supremelearning.com/footer.inc): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/supremel/public_html/gallery/index.php on line 67
+[08-Aug-2006 07:32:26] PHP Fatal error:  main(): Failed opening required 'http://supremelearning.com/footer.inc' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/supremel/public_html/gallery/index.php on line 67
+[08-Aug-2006 07:46:38] PHP Warning:  main(./header.inc): failed to open stream: No such file or directory in /home/supremel/public_html/gallery/index.php on line 1
+[08-Aug-2006 07:46:38] PHP Warning:  main(./header.inc): failed to open stream: No such file or directory in /home/supremel/public_html/gallery/index.php on line 1
+[08-Aug-2006 07:46:38] PHP Fatal error:  main(): Failed opening required './header.inc' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/supremel/public_html/gallery/index.php on line 1
