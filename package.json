@@ -1,0 +1,23 @@
+{
+  "name": "supreme-learning",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "PORT=3000 node ./server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mxi75/supremelearning.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mxi75/supremelearning/issues"
+  },
+  "homepage": "https://github.com/mxi75/supremelearning",
+  "dependencies": {
+    "express": "^4.13.3"
+  }
+}
